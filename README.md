@@ -8,23 +8,7 @@
 - Elegant UI for smooth and intuitive experience
 - Security, authenticity, transparency and automation of tasks implemented using Smart Contracts
 
-## UI
 
-#### Homepage
-
-![homepage](demos/homepage.png)
-
-#### Profile
-
-![profile page](demos/student%20profile.png)
-
-#### Assignment Submission
-
-![assignment submissions](demos/submissions.png)
-
-#### Payments
-
-![buy tokens](demos/buy_tokens.png)
 
 ## Tech Stack:
 
